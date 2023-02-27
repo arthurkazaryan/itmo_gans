@@ -115,9 +115,11 @@ python task_1.py
 ## Task 2
 The goal of the task is to generate a new images based on the images from ``./task_2/images`` folder.
 ### Dataset
-<img src="./task_2/images/avataaars_4.png" width="200">
-<img src="./task_2/images/avataaars_5.png" width="200">
-<img src="./task_2/images/avataaars_6.png" width="200">
+<div style="display: flex; flex-direction: row;">
+    <img src="./task_2/images/avataaars_4.png" width="200">
+    <img src="./task_2/images/avataaars_5.png" width="200">
+    <img src="./task_2/images/avataaars_6.png" width="200">
+</div>
 
 The dataset contains 11 images of drawn faces in RGB.
 
@@ -132,6 +134,8 @@ A monochrome image is being generated due to the long training time.
 ### Generated data
 Some samples of a generated data
 
-<img src="./task_2/test_image_0.png" width="200">
-<img src="./task_2/test_image_1.png" width="200">
-<img src="./task_2/test_image_2.png" width="200">
+<div style="display: flex; flex-direction: row;">
+    <img src="./task_2/test_image_0.png" width="200">
+    <img src="./task_2/test_image_1.png" width="200">
+    <img src="./task_2/test_image_2.png" width="200">
+</div>
