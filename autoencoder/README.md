@@ -30,6 +30,6 @@ python inference.py --model_path=./model_vae.pt --save_path=./misc/two_to_five.j
 ```
 
 <div style="display: flex; flex-direction: row;">
-    <img src="./misc/two_to_five.jpg" width="600">
-    <img src="./misc/six_to_one.jpg" width="600">
+    <img src="./misc/two_to_five.jpg" width="100%">
+    <img src="./misc/six_to_one.jpg" width="100%">
 </div>
