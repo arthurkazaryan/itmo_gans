@@ -12,4 +12,8 @@ Content:
         <td><a href="bayes_generator">Naive bayes generator</a></td>
         <td>Generating scenarios and images using naive bayes algorithm</td>
     </tr>
+    <tr>
+        <td><a href="autoencoder">Autoencoder</a></td>
+        <td>Autoencoder based on a convolutional layers</td>
+    </tr>
 </table>

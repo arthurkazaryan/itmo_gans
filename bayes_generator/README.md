@@ -1,6 +1,5 @@
 <h2 align="center">Naive bayes generator</h2>
 <hr>
-The repo contains some of the GAN models developed as a homework of a GAN's course at ITMO University.
 
 ## Task 1
 The goal of the task is to generate a set of features based on a most-common observations. 
