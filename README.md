@@ -1,1 +1,23 @@
-# itmo_gans
+<h1 align="center">Generative Adversarial Network models</h1>
+<hr>
+The repo contains some of the GAN models developed as a homework of a GAN's course at ITMO University.
+
+Content:
+<table>
+    <tr>
+        <th width="30%">Model</th>
+        <th width="50%">Description</th>
+    </tr>
+    <tr>
+        <td><a href="bayes_generator">Naive bayes generator</a></td>
+        <td>Generating scenarios and images using naive bayes algorithm</td>
+    </tr>
+    <tr>
+        <td><a href="autoencoder">Autoencoder</a></td>
+        <td>Autoencoder based on a convolutional layers</td>
+    </tr>
+    <tr>
+        <td><a href="dcgan">Deep convolutional GAN</a></td>
+        <td>DCGAN's based on a generator with CSP and ResNet blocks</td>
+    </tr>
+</table>
