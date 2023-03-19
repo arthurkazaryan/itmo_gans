@@ -1,8 +1,6 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as functional
-import torchvision
-from tqdm import tqdm
 
 torch.manual_seed(0)
 

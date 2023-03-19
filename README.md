@@ -16,4 +16,8 @@ Content:
         <td><a href="autoencoder">Autoencoder</a></td>
         <td>Autoencoder based on a convolutional layers</td>
     </tr>
+    <tr>
+        <td><a href="dcgan">Deep convolutional GAN</a></td>
+        <td>DCGAN's based on a generator with CSP and ResNet blocks</td>
+    </tr>
 </table>
