@@ -28,8 +28,8 @@ The metrics were logged into a TensorBoard and are available online for <a href=
 ### Comparison
 
 <div style="display: flex; flex-direction: row; justify-content: space-between">
-    <img src="./misc/csp_gan.gif" alt="csp_gan_animation" width="50%">
-    <img src="./misc/resnet_gan.gif" alt="resnet_gan_animation" width="50%">
+    <img src="./misc/csp_gan.gif" alt="csp_gan_animation" width="300">
+    <img src="./misc/resnet_gan.gif" alt="resnet_gan_animation" width="300">
 </div>
 <p align="center">Training process comparison for CSP Generator (left) and ResNet Generator (right)</p>
 
