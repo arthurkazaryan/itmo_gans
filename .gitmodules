@@ -1,3 +1,6 @@
 [submodule "impainting/MAT"]
 	path = impainting/MAT
 	url = https://github.com/fenglinglwb/MAT
+[submodule "impainting/SimSwap"]
+	path = impainting/SimSwap
+	url = https://github.com/neuralchen/SimSwap
