@@ -20,4 +20,8 @@ Content:
         <td><a href="dcgan">Deep convolutional GAN</a></td>
         <td>DCGAN's based on a generator with CSP and ResNet blocks</td>
     </tr>
+    <tr>
+        <td><a href="impainting">Video restoration and face swapping</a></td>
+        <td>Frame restoration based on MAT and swapping face using SimSwap</td>
+    </tr>
 </table>
